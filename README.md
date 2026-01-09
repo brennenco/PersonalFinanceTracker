@@ -1,2 +1,2 @@
 # PersonalFinanceTracker
-Developed a desktop finance manager using Java and Java Sing.
+Developed a desktop finance manager using Java and Java Swing.
